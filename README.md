@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://in.pinterest.com/pin/311381761734186207/" alt="GIF" />
+  <img height="150" src="https://in.pinterest.com/pin/311381761734186207/.gif" alt="GIF" />
 </div>
 
 ###
