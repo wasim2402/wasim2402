@@ -9,7 +9,7 @@
   <a href="wasimaktar2402@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/itz_wasim.x" target="_blank">
+  <a href="https://www.instagram.com/_wasim.aktar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/wasim.aktar.98031?mibextid=ZbWKwL" target="_blank">
