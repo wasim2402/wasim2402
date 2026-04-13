@@ -52,9 +52,9 @@
   <img width="12" />
     <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.graphicdesigninstitutedelhi.com/tools_img/expressjs.svg)" height="40" alt="nodejs logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg]" height="40" alt="nodejs logo"  />
   <img width="12" />
-    <img src="https://adityatarale.vercel.app/icons/express.svg" height="40" alt="express js logo"  />
+    <img src="(https://www.graphicdesigninstitutedelhi.com/tools_img/expressjs.svg)" height="40" alt="express js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
